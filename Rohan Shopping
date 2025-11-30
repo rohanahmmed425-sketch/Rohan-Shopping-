@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>আমার ফ্রি ওয়েবসাইট</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background: #f5f5f5;
+        }
+        header {
+            background: #2b6cb0;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        nav {
+            background: #1a4b7a;
+            padding: 10px;
+            text-align: center;
+        }
+        nav a {
+            color: white;
+            margin: 0 15px;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        section {
+            padding: 40px;
+            background: white;
+            margin: 20px auto;
+            width: 90%;
+            max-width: 900px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        footer {
+            background: #2b6cb0;
+            color: white;
+            text-align: center;
+            padding: 15px;
+            margin-top: 30px;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>স্বাগতম আমার ওয়েবসাইটে</h1>
+    <p>এটি একটি সম্পূর্ণ ফ্রি ওয়েবসাইট টেমপ্লেট</p>
+</header>
+
+<nav>
+    <a href="#home">হোম</a>
+    <a href="#about">আমাদের সম্পর্কে</a>
+    <a href="#services">সেবা</a>
+    <a href="#contact">যোগাযোগ</a>
+</nav>
+
+<section id="home">
+    <h2>হোম</h2>
+    <p>এটি আপনার ওয়েবসাইটের হোম সেকশন। এখানে আপনি নিজের ব্র্যান্ড, কাজ, বা প্রজেক্ট সম্পর্কে লিখতে পারেন।</p>
+</section>
+
+<section id="about">
+    <h2>আমাদের সম্পর্কে</h2>
+    <p>এই অংশে আপনার বা আপনার প্রতিষ্ঠানের পরিচয়, ইতিহাস, মিশন ইত্যাদি যুক্ত করতে পারেন।</p>
+</section>
+
+<section id="services">
+    <h2>আমাদের সেবা</h2>
+    <ul>
+        <li>সেবা ১</li>
+        <li>সেবা ২</li>
+        <li>সেবা ৩</li>
+    </ul>
+</section>
+
+<section id="contact">
+    <h2>যোগাযোগ</h2>
+    <p>ইমেইল: example@mail.com</p>
+    <p>ফোন: +880 1234 567890</p>
+</section>
+
+<footer>
+    <p>© 2025 আপনার ওয়েবসাইট. সর্বস্বত্ব সংরক্ষিত.</p>
+</footer>
+
+</body>
+</html>
